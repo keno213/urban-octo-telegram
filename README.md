@@ -1,4 +1,4 @@
-SRR was clone to this computer from Develop folder. 
+SRC was clone to this computer from Develop folder. 
 
 https://github.com/keno213/urban-octo-telegram
 
